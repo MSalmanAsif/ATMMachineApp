@@ -1,0 +1,1 @@
+A simple application that simulates ATM operations like balance inquiry, cash withdrawal, and deposits.
